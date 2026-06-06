@@ -18,6 +18,15 @@ Developed in Python, the system leverages real-time WebSocket market data, fast 
 
 Built for traders seeking scalable automation, rapid execution, and systematic exposure to Polymarket prediction markets.
 
+## Polymarket Trading Bot Account.
+
+A public account demonstrating live trading activity and historical performance can be viewed here:
+
+https://polymarket.com/@mateosoul
+
+<img width="1005" height="251" alt="image" src="https://github.com/user-attachments/assets/f47eacc9-1ddc-4222-9755-d9c4e927cb57" />
+
+
 ## Trading Screenshot.
 
 <img width="951" height="875" alt="poly-final-sniper-1" src="https://github.com/user-attachments/assets/b020771e-fb61-41b9-b174-a027bc09ec38" />
