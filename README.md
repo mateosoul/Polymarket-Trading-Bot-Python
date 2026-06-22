@@ -22,7 +22,6 @@ Built for traders seeking scalable automation, rapid execution, and systematic e
 
 A public account demonstrating live trading activity and historical performance can be viewed here:
 
-https://polymarket.com/@mateosoul
 
 <img width="1005" height="251" alt="image" src="https://github.com/user-attachments/assets/f47eacc9-1ddc-4222-9755-d9c4e927cb57" />
 
