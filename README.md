@@ -36,7 +36,20 @@ A public account demonstrating live trading activity and historical performance 
 
 <img width="1041" height="937" alt="poly-final-sniper-4" src="https://github.com/user-attachments/assets/957c383f-f19d-47b0-9779-38835c5f93bc" />
 
+---
 
+## Polymarket Win Token Sniper Bot
+
+A high-speed automated trading bot for Polymarket CLOB v2 markets that executes a rule-based strategy (“buy”) across multiple wallets. It continuously monitors BTC, ETH  and SOL prediction markets and triggers synchronized trades when short-lived price conditions align near epoch expiry. The system supports multi-wallet execution to scale positions and includes optional lifecycle management such as splitting, monitoring, and redeeming positions. It is designed for low-latency, time-sensitive execution with configurable risk controls and both live and simulation modes.
+
+
+## Trading Screenshot.
+
+<img width="964" height="768" alt="Polymarket-win-token-BTC-sniper1" src="https://github.com/user-attachments/assets/6da4c1f3-64aa-4d04-86c4-7e289184f53d" />
+
+<img width="978" height="756" alt="Polymarket-win-token-BTC-sniper2" src="https://github.com/user-attachments/assets/ebfc5278-e6a5-4168-b309-6b362151b9d1" />
+
+---
 
 ## Polymarket BTC Momentum Trading Bot
 
