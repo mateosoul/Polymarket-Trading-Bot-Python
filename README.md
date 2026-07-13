@@ -113,11 +113,6 @@ The goal is to build a lightweight, event-driven trading system capable of react
 
 ## Polymarket BTC Momentum Trading Bot Account.
 
-A public account demonstrating live trading activity and historical performance can be viewed here:
-
-https://polymarket.com/@poll-sticky-test
-
-<img width="825" height="207" alt="Polymarket BTC Momentum bot result3" src="https://github.com/user-attachments/assets/89898695-1b60-4824-bf77-0ce2daf8846c" />
 
 ## Trading Screenshot.
 
