@@ -148,5 +148,5 @@ If you're looking to automate trading on Polymarket or develop a custom predicti
 
 | Channel | Link |
 |---------|------|
-| **Telegram** | [@mateosoul](https://t.me/mateosoul) |
+| **Telegram** | [@mateosoul](https://telegram.me/mateosoul) |
 
